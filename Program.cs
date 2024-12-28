@@ -7,5 +7,5 @@ if(age <= 15)
 }
 else
 {
-  Console.WriteLine("Adult");
+  Console.WriteLine("Adults");
 }
